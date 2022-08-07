@@ -25,9 +25,9 @@
 ![Amazon S3](https://img.shields.io/badge/-S3-FF9900?style=for-the-badge&logo=AmazonS3&logoColor=AmazonS3&color=black)&nbsp;
 
 
-![Notion](https://img.shields.io/badge/-Notion-FF9900?style=flat&logo=Notion&logoColor=Notion&color=black)&nbsp;
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=Slack&color=black)&nbsp;
-![Asana](https://img.shields.io/badge/-Asana-FF9900?style=flat&logo=Asana&logoColor=Asana&color=black)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-FF9900?style=for-the-badge&logo=Notion&logoColor=Notion&color=black)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=Slack&color=black)&nbsp;
+![Asana](https://img.shields.io/badge/-Asana-FF9900?style=for-the-badge&logo=Asana&logoColor=Asana&color=black)&nbsp;
 
 
 <br><br>
