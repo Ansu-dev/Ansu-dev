@@ -18,7 +18,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&color=black)&nbsp;
 
 
-![AWS](https://img.shields.io/badge/-aws-FF9900?style=flat&logo=aws&color=black)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=AWS&color=black)&nbsp;
 
 <br><br>
 
