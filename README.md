@@ -19,10 +19,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=black)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=Jest&color=black)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&color=black)&nbsp;
-![Aws](https://img.shields.io/badge/-Aws-FF9900?style=flat&logo=Aws&logoColor=Aws&color=black)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=Amazon AWS&color=black)&nbsp;
 
 ![Notion](https://img.shields.io/badge/-Notion-FF9900?style=flat&logo=Notion&logoColor=Notion&color=black)&nbsp;
-![Slack](https://img.shields.io/badge/-Slack-FF9900?style=flat&logo=Slack&logoColor=Slack&color=black)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=Slack&color=black)&nbsp;
 ![Asana](https://img.shields.io/badge/-Asana-FF9900?style=flat&logo=Asana&logoColor=Asana&color=black)&nbsp;
 
 
