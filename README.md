@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ahn%20Gwangsu&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ahn%20Gwangsu&fontSize=90&animation=fadeIn&fontAlignY=38&asc=Back-End%20Developer&descAlignY=51&descAlign=62)
 
 <br>
 
