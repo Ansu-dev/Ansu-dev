@@ -9,6 +9,7 @@
 ![Nest](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=NestJS&color=black)&nbsp;
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=MySQL&color=black)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-4479A1?style=flat&logo=Oracle&logoColor=Oracle&color=black)&nbsp;
 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=black)&nbsp;
