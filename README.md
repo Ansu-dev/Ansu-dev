@@ -8,6 +8,10 @@
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=Express&color=black)&nbsp;
 ![Nest](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=NestJS&color=black)&nbsp;
 
+
+![Sequelize](https://img.shields.io/badge/-Sequelize-4479A1?style=flat&logo=Sequelize&logoColor=Sequelize&color=black)&nbsp;
+
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=MySQL&color=black)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-4479A1?style=flat&logo=Oracle&logoColor=Oracle&color=black)&nbsp;
 
@@ -18,7 +22,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&color=black)&nbsp;
 
 
-![AWS](https://img.shields.io/badge/aws-FF9900?style=flat&logo=aws&color=black)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=AWS&logoColor=AWS&color=black)&nbsp;
 
 <br><br>
 
