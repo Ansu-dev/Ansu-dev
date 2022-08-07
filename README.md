@@ -14,12 +14,16 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-4479A1?style=flat&logo=Sequelize&logoColor=Sequelize&color=black)&nbsp;
 
 
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=black)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=black)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=Jest&color=black)&nbsp;
+
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&color=black)&nbsp;
 ![Amazon EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=AmazonEC2&color=black)&nbsp;
+![Amazon RDS](https://img.shields.io/badge/-RDS-FF9900?style=flat&logo=AmazonRDS&logoColor=AmazonRDS&color=black)&nbsp;
+![Amazon S3](https://img.shields.io/badge/-S3-FF9900?style=flat&logo=AmazonS3&logoColor=AmazonS3&color=black)&nbsp;
+
 
 ![Notion](https://img.shields.io/badge/-Notion-FF9900?style=flat&logo=Notion&logoColor=Notion&color=black)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=Slack&color=black)&nbsp;
