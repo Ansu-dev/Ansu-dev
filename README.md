@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=black)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=Jest&color=black)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&color=black)&nbsp;
-![Aws](https://img.shields.io/badge/-aws-FF9900?style=flat&logo=aws&logoColor=aws&color=black)&nbsp;
+![Aws](https://img.shields.io/badge/-Aws-FF9900?style=flat&logo=Aws&logoColor=Aws&color=black)&nbsp;
 
 
 
