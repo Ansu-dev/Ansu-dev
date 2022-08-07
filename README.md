@@ -10,7 +10,6 @@
 
 
 ![Sequelize](https://img.shields.io/badge/-Sequelize-4479A1?style=flat&logo=Sequelize&logoColor=Sequelize&color=black)&nbsp;
-![TypeORM](https://img.shields.io/badge/-TypeORM-4479A1?style=flat&logo=TypeORM&logoColor=TypeORM&color=black)&nbsp;
 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=MySQL&color=black)&nbsp;
@@ -23,7 +22,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&color=black)&nbsp;
 
 
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=AWS&logoColor=AWS&color=black)&nbsp;
+![aws](https://img.shields.io/badge/-aws-FF9900?style=flat&logo=aws&logoColor=aws&color=black)&nbsp;
 
 <br><br>
 
