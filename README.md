@@ -10,6 +10,7 @@
 
 
 ![Sequelize](https://img.shields.io/badge/-Sequelize-4479A1?style=flat&logo=Sequelize&logoColor=Sequelize&color=black)&nbsp;
+![TypeORM](https://img.shields.io/badge/-TypeORM-4479A1?style=flat&logo=TypeORM&logoColor=TypeORM&color=black)&nbsp;
 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=MySQL&color=black)&nbsp;
