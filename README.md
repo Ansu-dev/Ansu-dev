@@ -18,6 +18,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&color=black)&nbsp;
 
 
+![AWS EC2](https://img.shields.io/badge/-Amazon EC2-FF9900?style=flat&logo=Docker&color=black)&nbsp;
+
 <br><br>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Ansu-dev&show_icons=true&theme=gruvbox)](https://github.com/Ansu-dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansu-dev&layout=compact)](https://github.com/Ansu-dev/github-readme-stats)
