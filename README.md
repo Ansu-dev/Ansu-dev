@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=E69A8D&height=300&section=header&text=Ahn%20GwangSu&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=FF385C&height=300&section=header&text=Ahn%20GwangSu&fontSize=80)
 <div align="center">
 🛠 Tech Stack 🛠 <br><br>
 
