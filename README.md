@@ -21,6 +21,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&color=black)&nbsp;
 ![Aws](https://img.shields.io/badge/-Aws-FF9900?style=flat&logo=Aws&logoColor=Aws&color=black)&nbsp;
 
+![Notion](https://img.shields.io/badge/-Notion-FF9900?style=flat&logo=Notion&logoColor=Notion&color=black)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-FF9900?style=flat&logo=Slack&logoColor=Slack&color=black)&nbsp;
+![Asana](https://img.shields.io/badge/-Asana-FF9900?style=flat&logo=Asana&logoColor=Asana&color=black)&nbsp;
 
 
 <br><br>
