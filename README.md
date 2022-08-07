@@ -4,7 +4,7 @@
 ### 🛠 &nbsp;`Technical Skills`
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&color=black)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=Vue.js&color=#4FC08D)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=Vue.js&color=black)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=Express&color=black)&nbsp;
 ![Nest](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=NestJS&color=black)&nbsp;
 
