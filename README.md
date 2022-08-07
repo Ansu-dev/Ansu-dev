@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&color=black)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=Express&color=black)&nbsp;
-![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=Nest&logoColor=Nest&color=black)&nbsp;
+![Nest](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=NestJS&color=black)&nbsp;
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=MySQL&color=black)&nbsp;
 
