@@ -13,7 +13,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&color=black)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&color=black)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&color=black)&nbsp;
 
 
 ![Amazon EC2](https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=AmazonEC2&color=black)&nbsp;
