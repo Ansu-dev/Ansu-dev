@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=An%20Gwangsu&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer&descAlignY=55&descAlign=73)
-
-
 ### 🛠 &nbsp;`Technical Skills`
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JavaScript&color=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&color=black)&nbsp;
