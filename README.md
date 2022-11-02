@@ -19,7 +19,6 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&color=black)&nbsp;
 
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&color=black)&nbsp;
 ![Amazon EC2](https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=AmazonEC2&color=black)&nbsp;
 ![Amazon RDS](https://img.shields.io/badge/-RDS-FF9900?style=for-the-badge&logo=AmazonRDS&logoColor=AmazonRDS&color=black)&nbsp;
 ![Amazon S3](https://img.shields.io/badge/-S3-FF9900?style=for-the-badge&logo=AmazonS3&logoColor=AmazonS3&color=black)&nbsp;
