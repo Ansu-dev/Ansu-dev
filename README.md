@@ -18,6 +18,8 @@
 ![Amazon EC2](https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=AmazonEC2&color=black)&nbsp;
 ![Amazon RDS](https://img.shields.io/badge/-RDS-FF9900?style=for-the-badge&logo=AmazonRDS&logoColor=AmazonRDS&color=black)&nbsp;
 ![Amazon S3](https://img.shields.io/badge/-S3-FF9900?style=for-the-badge&logo=AmazonS3&logoColor=AmazonS3&color=black)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-FF9900?style=for-the-badge&logo=Redis&logoColor=Redis&color=black)&nbsp;
+
 
 
 ![Notion](https://img.shields.io/badge/-Notion-FF9900?style=for-the-badge&logo=Notion&logoColor=Notion&color=black)&nbsp;
