@@ -59,8 +59,3 @@
 	</a>
 	<br>
 </div>
-<div align=center>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansu-dev&layout=compact&theme=transparent)
-![AnGwangsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansu-dev&show_icons=true&theme=dark)
-</div>
-
