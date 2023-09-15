@@ -62,9 +62,9 @@
 
 <div align=center>
 <p>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansu-dev&layout=compact">
 </p>
 <p>
-	<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=Ansu-dev&show_icons=true">
 </p>
 </div>
