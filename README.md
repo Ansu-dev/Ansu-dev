@@ -61,10 +61,10 @@
 </div>
 
 <div align=center>
-	<p>
-		![AnGwangsu's github stats](https://github-readme-stats.vercel.app/api?username=Ansu-dev&show_icons=true&theme=tokyonight)
-	</p>
-	<p>
-		![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansu-dev&layout=compact&theme=tokyonight)
-	</p>
+<p>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
+</p>
+<p>
+	<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+</p>
 </div>
