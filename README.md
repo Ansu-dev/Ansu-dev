@@ -48,7 +48,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://yermi.tistory.com">
+	<a href="https://www.linkedin.com/in/gwangsu-an-3aaa3a228">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
 	</a>
 	<a href="mailto:devhigh96@google.com">
