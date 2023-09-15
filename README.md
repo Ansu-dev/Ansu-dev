@@ -31,7 +31,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h3>🛠 Tools 🛠</h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -45,7 +45,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<h3>🎨 SNS & Portfolio 🎨</h3>
 </div>
 <div align=center>
 	<a href="https://www.linkedin.com/in/gwangsu-an-3aaa3a228">
