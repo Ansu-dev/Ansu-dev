@@ -61,9 +61,9 @@
 </div>
 
 <div align=center>
-<p>
+<!-- <p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansu-dev&layout=compact">
-</p>
+</p> -->
 <p>
 	<img src="https://github-readme-stats.vercel.app/api?username=Ansu-dev&show_icons=true">
 </p>
